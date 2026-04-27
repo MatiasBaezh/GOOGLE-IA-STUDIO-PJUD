@@ -1,0 +1,6 @@
+{
+  "name": "Asistify - Control de Asistencia",
+  "description": "Analizador inteligente de registros de asistencia. Calcula atrasos y salidas anticipadas con semáforos de alerta personalizables.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
